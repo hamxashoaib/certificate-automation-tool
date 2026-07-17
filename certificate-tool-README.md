@@ -38,14 +38,12 @@ A Python script that auto-generates personalized certificates from a template im
 Input (`names.csv`):
 ```
 name
-Ali Raza
-Ayesha Khan
+Bilal Akhtar
 ```
 
 Output:
 ```
-certificates/Ali_Raza.png
-certificates/Ayesha_Khan.png
+certificates/Bilal_Akhtar.png
 ```
 
 ## Notes
@@ -62,4 +60,4 @@ I'm **Hamza Shoaib**, a BS Artificial Intelligence student at The Islamia Univer
 
 ## Screenshots
 
-*(Add a sample generated certificate here)*
+![Sample Certificate](Certificate%20Sample/Bilal_Akhtar_certificate.png)
